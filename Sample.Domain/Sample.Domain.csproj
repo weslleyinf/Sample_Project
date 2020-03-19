@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.10.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sample.Shared\Sample.Kernel.csproj" />
+    <ProjectReference Include="..\Sample.ValueObject\Sample.Domain.ValueObject.csproj" />
+  </ItemGroup>
+
+</Project>
