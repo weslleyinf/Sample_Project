@@ -15,8 +15,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample.Domain", "Sample.Dom
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample.Test", "Sample.Test\Sample.Test.csproj", "{DBACED6B-3118-4BF7-9E59-2B1545F98CC8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sample.Domain.ValueObject", "Sample.ValueObject\Sample.Domain.ValueObject.csproj", "{C331AC7D-C691-4E88-9244-14E360FFF0BA}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,10 +45,6 @@ Global
 		{DBACED6B-3118-4BF7-9E59-2B1545F98CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBACED6B-3118-4BF7-9E59-2B1545F98CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBACED6B-3118-4BF7-9E59-2B1545F98CC8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C331AC7D-C691-4E88-9244-14E360FFF0BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C331AC7D-C691-4E88-9244-14E360FFF0BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C331AC7D-C691-4E88-9244-14E360FFF0BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C331AC7D-C691-4E88-9244-14E360FFF0BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

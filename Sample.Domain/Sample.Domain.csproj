@@ -10,7 +10,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Sample.Shared\Sample.Kernel.csproj" />
-    <ProjectReference Include="..\Sample.ValueObject\Sample.Domain.ValueObject.csproj" />
   </ItemGroup>
 
 </Project>
